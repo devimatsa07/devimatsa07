@@ -49,68 +49,47 @@
 
 ---
 
-# 🧰 Skills & Technologies
+# 🛠️ Technologies I Use
 
-### ☁️ Cloud / DevOps
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,linux,git,github" />
-</p>
-
-### 💻 Programming
+**💻 Programming**
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </p>
 
-### 🌐 Web Development
+**🌍 Web Technologies**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=react,html,css,js" />
 </p>
 
-### 🗃️ Database
+**🗃️ Database**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,oracle" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+**⚙️ Backend Development**
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+**🧰 Dev Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,github,git" />
 </p>
 
 ---
 
 # 📈 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=devimatsa07&show_icons=true&theme=tokyonight&hide_border=true"
-    width="410"
-  />
-  <img
-    src="https://streak-stats.demolab.com/?user=devimatsa07E&theme=tokyonight&hide_border=true"
-    width="410"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devimatsa07&layout=compact&theme=tokyonight&hide_border=true"
-    width="420"
-  />
-</p>
+<a href="http://www.github.com/devimatsa07"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devimatsa07&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ---
 
-## 🚀 Currently Learning
-
-```text
-🐧 Linux
-🔗 Networking
-🐍 Python
-🌐 Web Development
-🗄️ Databases
-🔧 Git & GitHub
-```
-
----
 
 ## 🎯 My Goal
 
