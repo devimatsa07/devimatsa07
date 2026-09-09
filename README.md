@@ -90,13 +90,3 @@
 
 ---
 
-
-## 🎯 My Goal
-
-> **Learn continuously. Build consistently. Improve every day.**
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:667eea,100:764ba2" />
-</p>
