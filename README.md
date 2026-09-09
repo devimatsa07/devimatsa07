@@ -1,28 +1,123 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rudra Devi
-===================================================================================================================================
+<!-- ✨ My GitHub Profile ✨ -->
 
-Currently Final Year Student
-----------------------------
+<h1 align="center">Hello 👋, I'm YOUR Rudra Devi</h1>
 
-Software Development Enthusiast passionate about building practical and user-friendly applications while continuously improving my programming skills.
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [matsadevi07@gmail.com](mailto:matsadevi07@gmail.com)
-* 🧠  I'm currently learning AI agents and modern software development
-* 👥  I'm looking to collaborate on internships, collaborative projects, and opportunities to learn and grow as a Software Developer.
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
+<p align="center">
+  <strong> Full stack devloper | 💻 Developer | 🚀 Tech Enthusiast</strong>
 </p>
 
-### Socials
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&section=header&text=Let's%20Build%20Something!&fontSize=35&fontColor=ffffff&color=0:667eea,100:764ba2" />
+</p>
 
-<p align="left"> <a href="https://www.github.com/devimatsa07" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/rudra-devi-matsa-7bb7142a5/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/devimatsa07" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/devimatsa07?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+---
 
-### Badges
+## 👨‍💻 About Me
 
-<b>My GitHub Stats</b>
+* 🎓 I'm currently learning and improving my **programming & cloud skills**
+* ☁️ Interested in **Full Stack and Frontend devlopment**
+* 💻 Enjoy working with **C, C++, Java and Python**
+* 🌐 Exploring **Web Development and Networking**
+* 🛠️ I like creating projects
+* 🤝 Looking forward to collaborating on **interesting projects**
+* 📫 Email: **matsadevi07@gmail.com**
+* ⚡ Fun fact: **I enjoy turning ideas into working projects!**
 
-<a href="http://www.github.com/devimatsa07"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devimatsa07&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
+
+## 🌍 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rudra-devi-matsa-7bb7142a5/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/devimatsa07">
+    <img src="https://skillicons.dev/icons?i=github" width="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/devimatsa07/">
+    <img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/devimatsa07">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/matsad3ap5/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> &nbsp;
+  <a href="https://www.hackerrank.com/profile/matsadevi07"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+</p>
+
+---
+
+# 🧰 Skills & Technologies
+
+### ☁️ Cloud / DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,linux,git,github" />
+</p>
+
+### 💻 Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+### 🗃️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,oracle" />
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=devimatsa07&show_icons=true&theme=tokyonight&hide_border=true"
+    width="410"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=devimatsa07E&theme=tokyonight&hide_border=true"
+    width="410"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devimatsa07&layout=compact&theme=tokyonight&hide_border=true"
+    width="420"
+  />
+</p>
+
+---
+
+## 🚀 Currently Learning
+
+```text
+🐧 Linux
+🔗 Networking
+🐍 Python
+🌐 Web Development
+🗄️ Databases
+🔧 Git & GitHub
+```
+
+---
+
+## 🎯 My Goal
+
+> **Learn continuously. Build consistently. Improve every day.**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:667eea,100:764ba2" />
+</p>
