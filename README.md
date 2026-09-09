@@ -1,13 +1,13 @@
 <!-- ✨ My GitHub Profile ✨ -->
 
-<h1 align="center">Hello 👋, I'm YOUR Rudra Devi</h1>
+<h1 align="center">Hello 👋, I'm Rudra Devi</h1>
 
 <p align="center">
   <strong> Full stack devloper | 💻 Developer | 🚀 Tech Enthusiast</strong>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&section=header&text=Let's%20Build%20Something!&fontSize=35&fontColor=ffffff&color=0:667eea,100:764ba2" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&section=header&text=Welcome%20to%20my%20profile&fontSize=35&fontColor=ffffff&color=0:667eea,100:764ba2" />
 </p>
 
 ---
