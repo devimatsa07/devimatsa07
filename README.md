@@ -85,8 +85,13 @@
 
 # 📈 GitHub Activity
 
+<div align="center">
 
-<a href="http://www.github.com/devimatsa07"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devimatsa07&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/devimatsa07">
+  <img src="https://streak-stats.demolab.com/?user=devimatsa07&theme=nord&border=14b8a6&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
+
+</div>
 
 ---
 
