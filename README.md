@@ -87,11 +87,8 @@
 
 <div align="center">
 
-<a href="https://github.com/devimatsa07">
-  <img src="https://streak-stats.demolab.com/?user=devimatsa07&theme=nord&border=14b8a6&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+<img src="https://streak-stats.demolab.com/?user=devimatsa07&theme=nord&border=14b8a6&ring=14b8a6&fire=14b8a6" alt="GitHub Streak"/>
 
 </div>
 
 ---
-
