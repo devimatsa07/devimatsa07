@@ -87,7 +87,9 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=devimatsa07&theme=nord&border=14b8a6&ring=14b8a6&fire=14b8a6" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=devimatsa07&theme=nord&border=14b8a6&ring=14b8a6&fire=14b8a6&currStreakNum=14b8a6&sideNums=14b8a6&currStreakLabel=14b8a6&sideLabels=14b8a6&dates=8aa4c2&timezone=Asia%2FKolkata&locale=en"
+     alt="GitHub Streak"
+     width="495"/>
 
 </div>
 
