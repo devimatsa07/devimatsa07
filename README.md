@@ -86,7 +86,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=devimatsa07&theme=nord&background=0D1117&border=9B59B6&ring=9B59B6&fire=9B59B6&currStreakLabel=9B59B6&sideLabels=9B59B6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9&timezone=Asia%2FKolkata&hide_total_contributions=true" alt="GitHub Streak" width="600"/>
+<img src="https://streak-stats.demolab.com/?user=devimatsa07&theme=nord&background=0D1117&border=9B59B6&ring=9B59B6&fire=9B59B6&currStreakLabel=9B59B6&sideLabels=9B59B6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9&timezone=Asia%2FKolkata&total_contributions=true" alt="GitHub Streak" width="600"/>
 
 </div>
 ---
