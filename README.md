@@ -86,7 +86,9 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=devimatsa07&theme=dark&timezone=Asia%2FKolkata" />
-
+<a href="https://github.com/devimatsa07">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devimatsa07&background=000000&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakNum=FFFFFF&currStreakLabel=8A2BE2&sideNums=FFFFFF&sideLabels=8A2BE2&dates=FFFFFF&hide_border=true" />
+</a>
 </div>
+
 ---
